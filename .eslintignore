@@ -1,0 +1,6 @@
+storybook
+.nuxt
+dist
+node_modules
+mockServer
+scripts/set-npmrc.js

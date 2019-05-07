@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "strict": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "lib": ["esnext"],
+    "outDir": "lib",
+    "types": ["node"]
+  },
+  "include": ["src/**/*.ts", "src/*.ts"]
+}

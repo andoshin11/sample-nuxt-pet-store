@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  nuxt:
+    build:
+      context: .
+      dockerfile: ./docker/nuxt/local/Dockerfile
+    ports:
+      - '8080:8080'
+    restart: always
+  nginx-proxy:
+    image: nginx:1.13
+    privileged: true
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./docker/nginx/local/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - nuxt

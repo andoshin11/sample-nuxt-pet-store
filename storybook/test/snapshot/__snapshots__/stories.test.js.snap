@@ -1,0 +1,1763 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots components/shared/atoms/Button Disabled 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div>
+      <div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -primary -sm"
+            disabled="disabled"
+            type="button"
+          >
+            <p>
+              Type: primary, Size: sm
+            </p>
+          </button>
+        </div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -primary -md"
+            disabled="disabled"
+            type="button"
+          >
+            <p>
+              Type: primary, Size: md
+            </p>
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -secondary -sm"
+            disabled="disabled"
+            type="button"
+          >
+            <p>
+              Type: secondary, Size: sm
+            </p>
+          </button>
+        </div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -secondary -md"
+            disabled="disabled"
+            type="button"
+          >
+            <p>
+              Type: secondary, Size: md
+            </p>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Button Normal 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div>
+      <div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -primary -sm"
+            type="button"
+          >
+            <p>
+              Type: primary, Size: sm
+            </p>
+          </button>
+        </div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -primary -md"
+            type="button"
+          >
+            <p>
+              Type: primary, Size: md
+            </p>
+          </button>
+        </div>
+      </div>
+      <div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -secondary -sm"
+            type="button"
+          >
+            <p>
+              Type: secondary, Size: sm
+            </p>
+          </button>
+        </div>
+        <div
+          style="margin-bottom: 20px;"
+        >
+          <button
+            class="Button -secondary -md"
+            type="button"
+          >
+            <p>
+              Type: secondary, Size: md
+            </p>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Custom Placeholder 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        Custom Placeholder
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        Custom Placeholder
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Default 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Disabled 1 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+            <option
+              disabled="disabled"
+              value="pineapple"
+            >
+              
+        pineapple
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Disabled all 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md"
+        >
+          <select
+            class="body primary"
+            disabled="disabled"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Has error 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md hasError"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <ul
+          class="errors"
+        >
+          <li
+            class="error"
+          >
+            選択してください
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Size: sm 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -sm"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select Type 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div>
+      <div
+        class="wrapper"
+        style="padding: 20px;"
+      >
+        <p>
+          type: primary
+        </p>
+         
+        <div
+          class="selectWrap"
+          typev-model="value"
+        >
+          <span
+            class="Select -md"
+          >
+            <select
+              class="body primary"
+              options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+            >
+              <option
+                class="placeholder"
+                disabled="disabled"
+                value=""
+              >
+                
+        選択してください
+      
+              </option>
+               
+              <option
+                value=""
+              >
+                
+        選択してください
+      
+              </option>
+              <option
+                value="1"
+              >
+                
+        apple
+      
+              </option>
+              <option
+                value="2"
+              >
+                
+        banana
+      
+              </option>
+              <option
+                value="3"
+              >
+                
+        grape
+      
+              </option>
+              <option
+                value="4"
+              >
+                
+        orange
+      
+              </option>
+            </select>
+          </span>
+           
+          <!---->
+        </div>
+      </div>
+      <div
+        class="wrapper"
+        style="padding: 20px;"
+      >
+        <p>
+          type: secondary
+        </p>
+         
+        <div
+          class="selectWrap"
+          typev-model="value"
+        >
+          <span
+            class="Select -md"
+          >
+            <select
+              class="body secondary"
+              options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+            >
+              <option
+                class="placeholder"
+                disabled="disabled"
+                value=""
+              >
+                
+        選択してください
+      
+              </option>
+               
+              <option
+                value=""
+              >
+                
+        選択してください
+      
+              </option>
+              <option
+                value="1"
+              >
+                
+        apple
+      
+              </option>
+              <option
+                value="2"
+              >
+                
+        banana
+      
+              </option>
+              <option
+                value="3"
+              >
+                
+        grape
+      
+              </option>
+              <option
+                value="4"
+              >
+                
+        orange
+      
+              </option>
+            </select>
+          </span>
+           
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select return Number 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/atoms/Select unsetNullOption 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+      style="height: 500px; padding: 20px;"
+    >
+      <div
+        class="selectWrap"
+      >
+        <span
+          class="Select -md"
+        >
+          <select
+            class="body primary"
+            options="[object Object],[object Object],[object Object],[object Object]"
+          >
+            <option
+              class="placeholder"
+              disabled="disabled"
+              value=""
+            >
+              
+        選択してください
+      
+            </option>
+             
+            <option
+              value="1"
+            >
+              
+        apple
+      
+            </option>
+            <option
+              value="2"
+            >
+              
+        banana
+      
+            </option>
+            <option
+              value="3"
+            >
+              
+        grape
+      
+            </option>
+            <option
+              value="4"
+            >
+              
+        orange
+      
+            </option>
+          </select>
+        </span>
+         
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/molecules/Pager Default 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+    >
+      <div
+        class="Pager"
+      >
+        <div
+          class="info"
+        >
+          30ページ中5目を表示
+        </div>
+         
+        <div
+          class="nav"
+        >
+          <button
+            class="Button navItem -secondary -sm"
+            type="button"
+          >
+            前へ
+          </button>
+           
+          <div
+            class="selectWrap navItem"
+          >
+            <span
+              class="Select -sm"
+            >
+              <select
+                class="body primary"
+                options="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+              >
+                <option
+                  class="placeholder"
+                  disabled="disabled"
+                  value=""
+                >
+                  
+        選択してください
+      
+                </option>
+                 
+                <option
+                  value=""
+                >
+                  
+        選択してください
+      
+                </option>
+                <option
+                  value="1"
+                >
+                  
+        1
+      
+                </option>
+                <option
+                  value="2"
+                >
+                  
+        2
+      
+                </option>
+                <option
+                  value="3"
+                >
+                  
+        3
+      
+                </option>
+                <option
+                  value="4"
+                >
+                  
+        4
+      
+                </option>
+                <option
+                  value="5"
+                >
+                  
+        5
+      
+                </option>
+                <option
+                  value="6"
+                >
+                  
+        6
+      
+                </option>
+                <option
+                  value="7"
+                >
+                  
+        7
+      
+                </option>
+                <option
+                  value="8"
+                >
+                  
+        8
+      
+                </option>
+                <option
+                  value="9"
+                >
+                  
+        9
+      
+                </option>
+                <option
+                  value="10"
+                >
+                  
+        10
+      
+                </option>
+                <option
+                  value="11"
+                >
+                  
+        11
+      
+                </option>
+                <option
+                  value="12"
+                >
+                  
+        12
+      
+                </option>
+                <option
+                  value="13"
+                >
+                  
+        13
+      
+                </option>
+                <option
+                  value="14"
+                >
+                  
+        14
+      
+                </option>
+                <option
+                  value="15"
+                >
+                  
+        15
+      
+                </option>
+                <option
+                  value="16"
+                >
+                  
+        16
+      
+                </option>
+                <option
+                  value="17"
+                >
+                  
+        17
+      
+                </option>
+                <option
+                  value="18"
+                >
+                  
+        18
+      
+                </option>
+                <option
+                  value="19"
+                >
+                  
+        19
+      
+                </option>
+                <option
+                  value="20"
+                >
+                  
+        20
+      
+                </option>
+                <option
+                  value="21"
+                >
+                  
+        21
+      
+                </option>
+                <option
+                  value="22"
+                >
+                  
+        22
+      
+                </option>
+                <option
+                  value="23"
+                >
+                  
+        23
+      
+                </option>
+                <option
+                  value="24"
+                >
+                  
+        24
+      
+                </option>
+                <option
+                  value="25"
+                >
+                  
+        25
+      
+                </option>
+                <option
+                  value="26"
+                >
+                  
+        26
+      
+                </option>
+                <option
+                  value="27"
+                >
+                  
+        27
+      
+                </option>
+                <option
+                  value="28"
+                >
+                  
+        28
+      
+                </option>
+                <option
+                  value="29"
+                >
+                  
+        29
+      
+                </option>
+                <option
+                  value="30"
+                >
+                  
+        30
+      
+                </option>
+              </select>
+            </span>
+             
+            <!---->
+          </div>
+           
+          <button
+            class="Button navItem -secondary -sm"
+            type="button"
+          >
+            次へ
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/molecules/Pager First 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+    >
+      <div
+        class="Pager"
+      >
+        <div
+          class="info"
+        >
+          30ページ中1目を表示
+        </div>
+         
+        <div
+          class="nav"
+        >
+          <button
+            class="Button navItem -secondary -sm"
+            disabled="disabled"
+            type="button"
+          >
+            前へ
+          </button>
+           
+          <div
+            class="selectWrap navItem"
+          >
+            <span
+              class="Select -sm"
+            >
+              <select
+                class="body primary"
+                options="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+              >
+                <option
+                  class="placeholder"
+                  disabled="disabled"
+                  value=""
+                >
+                  
+        選択してください
+      
+                </option>
+                 
+                <option
+                  value=""
+                >
+                  
+        選択してください
+      
+                </option>
+                <option
+                  value="1"
+                >
+                  
+        1
+      
+                </option>
+                <option
+                  value="2"
+                >
+                  
+        2
+      
+                </option>
+                <option
+                  value="3"
+                >
+                  
+        3
+      
+                </option>
+                <option
+                  value="4"
+                >
+                  
+        4
+      
+                </option>
+                <option
+                  value="5"
+                >
+                  
+        5
+      
+                </option>
+                <option
+                  value="6"
+                >
+                  
+        6
+      
+                </option>
+                <option
+                  value="7"
+                >
+                  
+        7
+      
+                </option>
+                <option
+                  value="8"
+                >
+                  
+        8
+      
+                </option>
+                <option
+                  value="9"
+                >
+                  
+        9
+      
+                </option>
+                <option
+                  value="10"
+                >
+                  
+        10
+      
+                </option>
+                <option
+                  value="11"
+                >
+                  
+        11
+      
+                </option>
+                <option
+                  value="12"
+                >
+                  
+        12
+      
+                </option>
+                <option
+                  value="13"
+                >
+                  
+        13
+      
+                </option>
+                <option
+                  value="14"
+                >
+                  
+        14
+      
+                </option>
+                <option
+                  value="15"
+                >
+                  
+        15
+      
+                </option>
+                <option
+                  value="16"
+                >
+                  
+        16
+      
+                </option>
+                <option
+                  value="17"
+                >
+                  
+        17
+      
+                </option>
+                <option
+                  value="18"
+                >
+                  
+        18
+      
+                </option>
+                <option
+                  value="19"
+                >
+                  
+        19
+      
+                </option>
+                <option
+                  value="20"
+                >
+                  
+        20
+      
+                </option>
+                <option
+                  value="21"
+                >
+                  
+        21
+      
+                </option>
+                <option
+                  value="22"
+                >
+                  
+        22
+      
+                </option>
+                <option
+                  value="23"
+                >
+                  
+        23
+      
+                </option>
+                <option
+                  value="24"
+                >
+                  
+        24
+      
+                </option>
+                <option
+                  value="25"
+                >
+                  
+        25
+      
+                </option>
+                <option
+                  value="26"
+                >
+                  
+        26
+      
+                </option>
+                <option
+                  value="27"
+                >
+                  
+        27
+      
+                </option>
+                <option
+                  value="28"
+                >
+                  
+        28
+      
+                </option>
+                <option
+                  value="29"
+                >
+                  
+        29
+      
+                </option>
+                <option
+                  value="30"
+                >
+                  
+        30
+      
+                </option>
+              </select>
+            </span>
+             
+            <!---->
+          </div>
+           
+          <button
+            class="Button navItem -secondary -sm"
+            type="button"
+          >
+            次へ
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots components/shared/molecules/Pager Last 1`] = `
+<div
+  class="decorator"
+>
+  <div
+    class="decorator"
+  >
+    <div
+      class="wrapper"
+    >
+      <div
+        class="Pager"
+      >
+        <div
+          class="info"
+        >
+          30ページ中30目を表示
+        </div>
+         
+        <div
+          class="nav"
+        >
+          <button
+            class="Button navItem -secondary -sm"
+            type="button"
+          >
+            前へ
+          </button>
+           
+          <div
+            class="selectWrap navItem"
+          >
+            <span
+              class="Select -sm"
+            >
+              <select
+                class="body primary"
+                options="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+              >
+                <option
+                  class="placeholder"
+                  disabled="disabled"
+                  value=""
+                >
+                  
+        選択してください
+      
+                </option>
+                 
+                <option
+                  value=""
+                >
+                  
+        選択してください
+      
+                </option>
+                <option
+                  value="1"
+                >
+                  
+        1
+      
+                </option>
+                <option
+                  value="2"
+                >
+                  
+        2
+      
+                </option>
+                <option
+                  value="3"
+                >
+                  
+        3
+      
+                </option>
+                <option
+                  value="4"
+                >
+                  
+        4
+      
+                </option>
+                <option
+                  value="5"
+                >
+                  
+        5
+      
+                </option>
+                <option
+                  value="6"
+                >
+                  
+        6
+      
+                </option>
+                <option
+                  value="7"
+                >
+                  
+        7
+      
+                </option>
+                <option
+                  value="8"
+                >
+                  
+        8
+      
+                </option>
+                <option
+                  value="9"
+                >
+                  
+        9
+      
+                </option>
+                <option
+                  value="10"
+                >
+                  
+        10
+      
+                </option>
+                <option
+                  value="11"
+                >
+                  
+        11
+      
+                </option>
+                <option
+                  value="12"
+                >
+                  
+        12
+      
+                </option>
+                <option
+                  value="13"
+                >
+                  
+        13
+      
+                </option>
+                <option
+                  value="14"
+                >
+                  
+        14
+      
+                </option>
+                <option
+                  value="15"
+                >
+                  
+        15
+      
+                </option>
+                <option
+                  value="16"
+                >
+                  
+        16
+      
+                </option>
+                <option
+                  value="17"
+                >
+                  
+        17
+      
+                </option>
+                <option
+                  value="18"
+                >
+                  
+        18
+      
+                </option>
+                <option
+                  value="19"
+                >
+                  
+        19
+      
+                </option>
+                <option
+                  value="20"
+                >
+                  
+        20
+      
+                </option>
+                <option
+                  value="21"
+                >
+                  
+        21
+      
+                </option>
+                <option
+                  value="22"
+                >
+                  
+        22
+      
+                </option>
+                <option
+                  value="23"
+                >
+                  
+        23
+      
+                </option>
+                <option
+                  value="24"
+                >
+                  
+        24
+      
+                </option>
+                <option
+                  value="25"
+                >
+                  
+        25
+      
+                </option>
+                <option
+                  value="26"
+                >
+                  
+        26
+      
+                </option>
+                <option
+                  value="27"
+                >
+                  
+        27
+      
+                </option>
+                <option
+                  value="28"
+                >
+                  
+        28
+      
+                </option>
+                <option
+                  value="29"
+                >
+                  
+        29
+      
+                </option>
+                <option
+                  value="30"
+                >
+                  
+        30
+      
+                </option>
+              </select>
+            </span>
+             
+            <!---->
+          </div>
+           
+          <button
+            class="Button navItem -secondary -sm"
+            disabled="disabled"
+            type="button"
+          >
+            次へ
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
